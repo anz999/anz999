@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anz999
-- 👀 I’m interested in Python,Js,Rust
-- 🌱 I’m currently learning Python,js,Rust
-- 📫 How to reach me anzalmohammed@gds.ey.com
+- 👀 I’m interested in Python,JS,Rust
+- 🌱 I’m currently learning Python,JS,Rust
+- 📫 How to reach me anzalmohammed94@gmail.com
 
 <!---
 anz999/anz999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
